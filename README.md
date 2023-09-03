@@ -1,7 +1,6 @@
-# Windows Virtual Assistant with Python and GPT-3
+# Windows Virtual Assistant with Python and GPT-3.5 Function-calling
 
 ## Introduction
-
 This project demonstrates how to create a virtual assistant for Windows using Python and GPT-3.5 Function-calling. With this virtual assistant, you can answer questions, and perform various actions on your Windows computer using natural language commands.
 
 ## Getting Started
