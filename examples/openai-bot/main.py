@@ -8,7 +8,7 @@ import datetime
 
 
 # Load your OpenAI API key
-OpenAI.api_key = "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"
+OpenAI.api_key = ""
 
 # Prompt for GPT-3.5 Turbo
 SYSTEM_PROMPT = """You are chatting with windows virtual assistant. There are no specific prefixes for responses, so you can ask or talk about anything you like.
