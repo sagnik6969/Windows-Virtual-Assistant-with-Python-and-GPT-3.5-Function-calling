@@ -25,7 +25,7 @@ poetry install
 ```
 
 ## Start development server
->remember to set the OpenAI API key in `main.py`.
+>remember to set the OpenAI API key in `examples/openai-bot/main.py`.
 
 Run the following command:
 
